@@ -1,4 +1,6 @@
 import me from "./me.png"
+import resume from "./resume.pdf"
+
 export const portfolioData = {
   personal: {
     name: "Shivam Dubey",
@@ -7,7 +9,7 @@ export const portfolioData = {
     email: "shivamdubeyagra8@gmail.com",
     phone: "+91 6395367426",
     location: "Ahmedabad, India",
-    resumeUrl: "/resume.pdf",
+    resumeUrl: resume,
     avatarUrl: me,
     // avatarUrl: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&dpr=2"
   },
