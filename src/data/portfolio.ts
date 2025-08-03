@@ -29,7 +29,7 @@ export const portfolioData = {
       "React", "Next.js", "Remix", "React Native"
     ],
     backend: [
-      "Node.js", "Express.js", "NestJS", "Python", "FastAPI",
+      "Node.js", "Express.js", "GraphQL", "NestJS", "Python", "FastAPI",
       "Golang", "Fiber"
     ],
     databases: [
